@@ -179,7 +179,7 @@ prepared_data/
 *.pt
 *.json
 !safecommute/**/*.json
-!web/**/*.json
+!vercel.json
 roc_curve.png
 calibration_plots.png
 experiments_log.txt
